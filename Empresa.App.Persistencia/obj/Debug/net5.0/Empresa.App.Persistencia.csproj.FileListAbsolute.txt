@@ -1,0 +1,15 @@
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\Empresa.App.Persistencia.deps.json
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\Empresa.App.Persistencia.runtimeconfig.json
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\Empresa.App.Persistencia.runtimeconfig.dev.json
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\Empresa.App.Persistencia.dll
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\ref\Empresa.App.Persistencia.dll
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\bin\Debug\net5.0\Empresa.App.Persistencia.pdb
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.csproj.AssemblyReference.cache
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.AssemblyInfo.cs
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.dll
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\ref\Empresa.App.Persistencia.dll
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.pdb
+C:\Empresa\Empresa.App\Empresa.App.Persistencia\obj\Debug\net5.0\Empresa.App.Persistencia.genruntimeconfig.cache
